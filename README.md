@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jDovey
 - 👀 I’m interested in python, pattern recognition in data and lots more!
-- 🌱 I’m currently in my final year of my economics degree and am aiming to start a MSc Computer Science course in 2022.
+- 🌱 I’m currently studying MSc Computer Science course, graduating in 2023, and starting as a graduate software engineer in september.
 - 💞️ I’m looking to collaborate on nothing specific right now but am open to collaborating in the future.
 - 📫 How to reach me: twitter.com/jordandovey
 
